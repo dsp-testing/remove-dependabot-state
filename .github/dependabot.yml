@@ -10,6 +10,6 @@ updates:
     schedule:
       interval: "weekly"
     groups:
-      temp-renamed-group:
+      node-dependencies:
         patterns:
           - '*'
